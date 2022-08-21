@@ -1,1 +1,1 @@
-# Sepal-Petal-Analysis-using-IRIS-Dataset
+# Sepal Petal Analysis using IRIS Dataset
